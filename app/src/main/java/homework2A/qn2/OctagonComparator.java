@@ -17,7 +17,6 @@ public class OctagonComparator implements Comparator<Octagon> {
         }
     }
     //then implement the method(s) in the interface
-
 }
 
 
