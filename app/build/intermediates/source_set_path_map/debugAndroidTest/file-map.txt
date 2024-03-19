@@ -1,0 +1,6 @@
+com.example.t4_secondhalf.test.app-annotation-experimental-1.3.0-0 /Users/roshan/.gradle/caches/transforms-3/77660fa7dce3f77235db1b1d34b10103/transformed/annotation-experimental-1.3.0/res
+com.example.t4_secondhalf.test.app-core-1.5.0-1 /Users/roshan/.gradle/caches/transforms-3/c773155d28b3ff4d874c87b2f158df48/transformed/core-1.5.0/res
+com.example.t4_secondhalf.test.app-androidTest-2 /Users/roshan/Documents/SUTD/Term 4/SYS/t4_secondhalf/app/build/generated/res/resValues/androidTest/debug
+com.example.t4_secondhalf.test.app-mergeDebugAndroidTestResources-3 /Users/roshan/Documents/SUTD/Term 4/SYS/t4_secondhalf/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.t4_secondhalf.test.app-mergeDebugAndroidTestResources-4 /Users/roshan/Documents/SUTD/Term 4/SYS/t4_secondhalf/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.t4_secondhalf.test.app-merged_res-5 /Users/roshan/Documents/SUTD/Term 4/SYS/t4_secondhalf/app/build/intermediates/merged_res/debugAndroidTest
